@@ -1,0 +1,29 @@
+_repo: The-Game-of-Logic_4763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
+description: This classic work by renowned author Lewis Carroll reflects this Oxford
+  University math professor's love of logic problems.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic -- Juvenile literature'
+- !lcsh 'Logic, Symbolic and mathematical'
+- !lcc 'BC'
+- GITenberg
+title: The Game of Logic
+url: http://www.gutenberg.org/ebooks/4763
