@@ -1,5 +1,8 @@
 _repo: The-Game-of-Logic_4763
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carroll, Lewis
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
 description: This classic work by renowned author Lewis Carroll reflects this Oxford
   University math professor's love of logic problems.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4763#The-Game-of-Logic
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
